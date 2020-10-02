@@ -17,3 +17,6 @@ Plan:
     * QuantileAD
     * InterQuantileRangeAD
     *
+
+## Development
+For documentation [Read the Docs](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html#) is used. Rebuild documentation with running `make html` in directory `docs/`.
